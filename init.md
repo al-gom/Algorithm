@@ -1,7 +1,7 @@
 # 📌 Algorithm Theory Link<br>
 - ### [이진 탐색(Binary Search)](BinarySearch/BinarySearch.md)
 - ### [DFS & BFS](DFS&BFS/DFS&BFS.md)
-- ### [동적 프로그래밍(DinamicProgramming)](DinamicProgramming/DinamicProgramming.md)
+- ### [동적 프로그래밍(DynamicPrograming)](DynamicPrograming/DynamicPrograming.md)
 - ### [그래프 이론(GraphTheory)](GraphTheory/GraphTheory.md)
 - ### [탐욕(그리디) & 구현(Greedy&Implementation)](Greedy&Implementation/Greedy&Implementation.md)
 - ### [구간 합(IntervalSum)](./IntervalSum/README.md)
