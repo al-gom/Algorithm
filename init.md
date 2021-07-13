@@ -1,5 +1,7 @@
 # 📌 Algorithm Theory Link<br>
 - ### [이진 탐색(Binary Search)](BinarySearch/BinarySearch.md)
+    - [Binary Search](BinarySearch/BinarySearch.md(#📌binary-search))
+    - [Parametric Search](BinarySearch/BinarySearch.md(#📌parametric-search-::-파라메트릭-서치))
 - ### [DFS & BFS](DFS&BFS/DFS&BFS.md)
 - ### [동적 프로그래밍(DynamicPrograming)](DynamicPrograming/DynamicPrograming.md)
 - ### [그래프 이론(GraphTheory)](GraphTheory/GraphTheory.md)
