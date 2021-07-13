@@ -1,12 +1,12 @@
 # 📌 Algorithm Theory Link<br>
-- ### [이진 탐색(Binary Search)](./BinarySearch/README.md)
-- ### [DFS & BFS](./DFS&BFS/README.md)
-- ### [동적 프로그래밍(DinamicProgramming)](./DinamicProgramming/README.md)
-- ### [그래프 이론(GraphTheory)](./GraphTheory/README.md)
-- ### [탐욕(그리디) & 구현(Greedy&Implementation)](./Greedy&Implementation/README.md)
+- ### [이진 탐색(Binary Search)](BinarySearch/BinarySearch.md)
+- ### [DFS & BFS](DFS&BFS/DFS&BFS.md)
+- ### [동적 프로그래밍(DinamicProgramming)](DinamicProgramming/DinamicProgramming.md)
+- ### [그래프 이론(GraphTheory)](GraphTheory/GraphTheory.md)
+- ### [탐욕(그리디) & 구현(Greedy&Implementation)](Greedy&Implementation/Greedy&Implementation.md)
 - ### [구간 합(IntervalSum)](./IntervalSum/README.md)
-- ### [최단 경로(ShortPath)](./ShortPath/README.md)
-- ### [정렬(Sort)](./Sort/README.md)
+- ### [최단 경로(ShortPath)](ShortPath/ShortPath.md)
+- ### [정렬(Sort)](Sort/Sort.md)
 
 # 📌 실전에서 유용한 표준 라이브러리 - Python
 #### `itertools` : 파이썬에서 반복되는 형태의 데이터를 처리하기 위한 유용한 기능을 제공 특히 순열과 조합 라이브러리는 코딩 테스트에서 자주 사용된다.
