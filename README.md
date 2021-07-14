@@ -39,7 +39,11 @@
   - 삽입 정렬
   - 퀵 정렬
   - 계수 정렬
-  
+- ### [최소 공통 조상(LCA)](LowestCommonAncestor/LowestCommonAncestor.md)
+- ### [소수 판별 알고리즘](PrimeNumber/PrimeNumber.md)
+- ### [트리(Tree)](Tree/Tree.md)
+- ### [투 포인터(Two Pointer)](TwoPointer/TwoPointer.md)
+- ### [바이너리 인덱스 트리(Binary Index Tree)](TwoPointer/TwoPointer.md)
 - ### [코테에서 유용한 라이브러리 - 파이썬](PythonLibrary/PythonLibrary.md)
 
 # 📌 참고자료
