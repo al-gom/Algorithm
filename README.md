@@ -30,6 +30,7 @@
 - ### [최단 경로(ShortPath)](ShortPath/ShortPath.md)
   - 최단 경로 알고리즘
   - 다익스트라(Dijkstra) 알고리즘
+  - 음수 간선에 관한 최단 경로 문제  
   - 플로이드 워셜(Floyd-Warshall) 알고리즘
   - 우선순위 큐(Priority Queue)
   
